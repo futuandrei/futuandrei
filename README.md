@@ -4,7 +4,9 @@ I am a designer with of more than 15 years working experience in UI / UX Design 
 
 I will graduate in 2025 and looking for trainee positions and work as Full Stack Web Developer.
 
-Let's talk! Reach me: LinkedIn / Discord
+Reach me: 
+- Linkedin: https://www.linkedin.com/in/andrei-savolainen-97291518/
+- Discord: #asecroog#7591
 
 <!--
 **futuandrei/futuandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

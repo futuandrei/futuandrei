@@ -1,10 +1,10 @@
-## Hi there 👋
+## Andrei Savolainen:  Designer & Developer
 
-#### I am UX designer with over 15 years of working experience learning to code at Business College Helsinki.
+I am a designer with of more than 15 years working experience in UI / UX Design projects. At the moment I'm reinventing myself and I am studying Full Stack Web Development at Business College Helsinki.
 
-- 🔭 I'm currently working on school projects at Business College Helsinki
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React
-- 📫 How to reach me: LinkedIn / Discord
+I will graduate in 2025 and looking for trainee positions and work as Full Stack Web Developer.
+
+Let's talk! Reach me: LinkedIn / Discord
 
 <!--
 **futuandrei/futuandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

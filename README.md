@@ -1,8 +1,10 @@
-## Andrei Savolainen:  Designer & Developer
+### 👋 Hi, I'm Andrei.
 
-I am a designer with of more than 15 years working experience in UI / UX Design projects. At the moment I'm reinventing myself and I am studying Full Stack Web Development at Business College Helsinki.
+## I am UI / UX Designer reinventing myself as a developer. 
 
-I will graduate in 2025 and looking for trainee positions and work as Full Stack Web Developer.
+- In past, I've been working as a Graphic, UI, UX designer and service designer.
+- At the moment I'm reinventing myself and I am studying Full Stack Web Development at Business College Helsinki.
+- I will graduate by the end of 2025 and I am looking for job opportunities for trainee period in fall 2025 and job opportunities after that as well.
 
 Reach me: 
 - Linkedin: https://www.linkedin.com/in/andrei-savolainen/

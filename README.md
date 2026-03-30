@@ -3,8 +3,7 @@
 ## I am UI / UX Designer reinventing myself as a developer. 
 
 - In past, I've been working as a Graphic, UI, UX designer and service designer.
-- I've enrolled to Full Stack Web Development programme at Business College Helsinki and am currently undergoing my internship at Avidly.
-- I will graduate by the end of 2025.
+- I've graduated from Full Stack Web Development programme at Business College Helsinki in 2025 and now working as designer & developer at Avidly.
 
 Reach me: 
 - Linkedin: https://www.linkedin.com/in/andrei-savolainen/

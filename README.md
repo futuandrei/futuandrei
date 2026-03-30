@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Andrei.
 
-## I am UI / UX Designer reinventing myself as a developer. 
+## I am Designer and frontend developer. 
 
-- In past, I've been working as a Graphic, UI, UX designer and service designer.
-- I've graduated from Full Stack Web Development programme at Business College Helsinki in 2025 and now working as designer & developer at Avidly.
+- I've been working as a Graphic, UI, UX designer and service designer for many years before taking a leap of faith into programming and web development in August 2024.
+- I've graduated from Full Stack Web Development programme from Business College Helsinki in 2025 and now working as designer & developer at Avidly mainly on WordPress projects.
 
 Reach me: 
 - Linkedin: https://www.linkedin.com/in/andrei-savolainen/
